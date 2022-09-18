@@ -6,6 +6,10 @@ Please see attached Zip file for HTML/CSS/PHP/JavaScript/SQL Code.
 You can access the website here: http://rentalcarsouthwest.fa-calculator-nu.com/
 
 
-You can Access the Database Schema Here: [Database_Schema.pdf](https://github.com/mcaffarelli/Southwest-Project/files/9594076/Database_Schema.pdf)
+Below is the Database Schema:
 
-You can Access the Database ER Diagram Here: [Project-ER-Diagram.pdf](https://github.com/mcaffarelli/Southwest-Project/files/9594077/Project-ER-Diagram.pdf)
+![image](https://user-images.githubusercontent.com/81937437/190905213-329c042d-24d9-4c0f-a31c-14b089612aa8.png)
+
+Below is the Database ER Diagram:
+
+![image](https://user-images.githubusercontent.com/81937437/190905335-923cc515-f1ec-41f9-a861-550b8f037f99.png)
