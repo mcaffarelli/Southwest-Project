@@ -1,0 +1,1205 @@
+
+* {
+	margin-right:0% ;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+    
+}
+#Third_Art_Board {
+	position: absolute;
+	width: 1903px;
+	height: 1959px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	
+   
+}
+#HEADER_RECTANGLE_2 {
+	fill: rgba(48,76,178,1);
+}
+.HEADER_RECTANGLE_2 {
+	position: absolute;
+	overflow: visible;
+	width: 1903px;
+	height: 71px;
+	left: 0px;
+	top: 35px;
+}
+#HEADER_RECTANGLE {
+	fill: rgba(41,66,153,1);
+}
+.HEADER_RECTANGLE {
+	position: absolute;
+	overflow: visible;
+	width: 1903px;
+	height: 35px;
+	left: 0px;
+	top: 0px;
+}
+#CAR-MODIFYREMOVE {
+	position: absolute;
+	width: 938px;
+	height: 86px;
+	left: 483px;
+	top: 185px;
+	overflow: visible;
+}
+#Rectangle_17 {
+	fill: rgba(17,27,64,1);
+}
+.Rectangle_17 {
+	position: absolute;
+	overflow: visible;
+	width: 938px;
+	height: 86px;
+	left: 0px;
+	top: 0px;
+}
+#Car____Modify__Remove {
+	left: 74px;
+	top: 18px;
+	position: absolute;
+	overflow: visible;
+	width: 182px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 22px;
+	color: rgba(255,255,255,1);
+}
+#Image_53 {
+	position: absolute;
+	width: 34px;
+	height: 30.731px;
+	left: 34px;
+	top: 15.135px;
+	overflow: visible;
+}
+#Middle_Text {
+	position: absolute;
+	width: 665.6px;
+	height: 69px;
+	left: 483px;
+	top: 37px;
+	overflow: visible;
+}
+
+#DEC_14_-_17_San_Diego_CA_-_SAN {
+	left: 423px;
+	top: 5px;
+	position: absolute;
+	overflow: visible;
+	width: 218px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 13px;
+	color: rgba(255,255,255,1);
+}
+#Image_28 {
+	position: absolute;
+	width: 30px;
+	height: 30px;
+	left: 383px;
+	top: 14px;
+	overflow: visible;
+}
+#Image_29 {
+	position: absolute;
+	width: 226px;
+	height: 43px;
+	left: 0px;
+	top: 11px;
+	overflow: visible;
+}
+#LOGIN_GROUP {
+	position: absolute;
+	width: 1136px;
+	height: 35px;
+	left: 384px;
+	top: 0px;
+	overflow: visible;
+}
+
+#Log_in_______________Lock_head {
+	left: 780px;
+	top: 13px;
+	position: absolute;
+	overflow: visible;
+	width: 231px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 13px;
+	color: rgba(255,255,255,1);
+}
+#Image_25 {
+	position: absolute;
+	width: 21px;
+	height: 22px;
+	left: 754px;
+	top: 9px;
+	overflow: visible;
+}
+#Image_26 {
+	position: absolute;
+	width: 22px;
+	height: 19px;
+	left: 848px;
+	top: 12px;
+	overflow: visible;
+}
+#Image_27 {
+	position: absolute;
+	width: 22px;
+	height: 21px;
+	left: 1015px;
+	top: 10px;
+	overflow: visible;
+}
+#Trip__Price_Details {
+	left: 483px;
+	top: 118px;
+	position: absolute;
+	overflow: visible;
+	width: 384px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 42px;
+	color: rgba(17,27,64,1);
+}
+#AIRPLANE {
+	position: absolute;
+	width: 339px;
+	height: 34px;
+	left: 1066px;
+	top: 122px;
+	overflow: visible;
+}
+#Line_12 {
+	opacity: 0.2;
+	fill: transparent;
+	stroke: rgba(112,112,112,1);
+	
+}
+.Line_12 {
+	overflow: visible;
+	position: absolute;
+	width: 110px;
+	height: 2px;
+	left: 173.5px;
+	top: 10px;
+	
+}
+#Line_11 {
+	opacity: 0.2;
+	fill: transparent;
+	stroke: rgba(112,112,112,1);
+	
+}
+.Line_11 {
+	overflow: visible;
+	position: absolute;
+	width: 110px;
+	height: 2px;
+	left: 30.5px;
+	top: 10px;
+	
+}
+#Ellipse_3 {
+	fill: rgba(230,231,232,1);
+}
+.Ellipse_3 {
+	position: absolute;
+	overflow: visible;
+	width: 20px;
+	height: 20px;
+	left: 147px;
+	top: 0px;
+}
+#Ellipse_2 {
+	fill: rgba(230,231,232,1);
+}
+.Ellipse_2 {
+	position: absolute;
+	overflow: visible;
+	width: 20px;
+	height: 20px;
+	left: 290px;
+	top: 0px;
+}
+#Ellipse_1 {
+	fill: rgba(17,27,64,1);
+	stroke: rgba(112,112,112,1);
+	
+}
+
+#Image_54 {
+	position: absolute;
+	width: 13px;
+	height: 11.643px;
+	left: 8px;
+	top: 4.179px;
+	overflow: visible;
+}
+#Price {
+	left: 0px;
+	top: 20px;
+	position: absolute;
+	overflow: visible;
+	width: 28px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(17,27,64,1);
+}
+#Confirmation {
+	left: 271px;
+	top: 20px;
+	position: absolute;
+	overflow: visible;
+	width: 69px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(17,27,64,1);
+}
+#Payment {
+	left: 134px;
+	top: 20px;
+	position: absolute;
+	overflow: visible;
+	width: 48px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(17,27,64,1);
+}
+#MAIN_RECTANGLE {
+	position: absolute;
+	width: 938px;
+	height: 1566px;
+	left: 483px;
+	top: 271px;
+	overflow: visible;
+}
+#Main_Rectangle {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,0.2);
+	
+}
+.Main_Rectangle {
+	position: absolute;
+	overflow: visible;
+	width: 938px;
+	height: 1566px;
+	left: 0px;
+	top: 0px;
+}
+#Car_details {
+	left: 39px;
+	top: 20px;
+	position: absolute;
+	overflow: visible;
+	width: 154px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(17,27,64,1);
+}
+#PICKUP_DETAILS {
+	position: absolute;
+	width: 184px;
+	height: 79px;
+	left: 513px;
+	top: 350px;
+	overflow: visible;
+}
+#PICK-UP {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 46px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 11px;
+	color: rgba(99,99,99,1);
+}
+#San_Diego_CA {
+	left: 0px;
+	top: 67px;
+	position: absolute;
+	overflow: visible;
+	width: 74px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 11px;
+	color: rgba(99,99,99,1);
+}
+#n_21421_SAN {
+	left: 0px;
+	top: 16px;
+	position: absolute;
+	overflow: visible;
+	width: 65px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 16px;
+	color: rgba(1,27,64,1);
+}
+#n_100AM {
+	left: 122px;
+	top: 16px;
+	position: absolute;
+	overflow: visible;
+	width: 63px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(1,27,64,1);
+}
+#RETURN_DETAILS {
+	position: absolute;
+	width: 184px;
+	height: 79px;
+	left: 513px;
+	top: 449px;
+	overflow: visible;
+}
+#RETURN {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 47px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 11px;
+	color: rgba(99,99,99,1);
+}
+#San_Diego_CA_bk {
+	left: 0px;
+	top: 67px;
+	position: absolute;
+	overflow: visible;
+	width: 74px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 11px;
+	color: rgba(99,99,99,1);
+}
+#n_21721_SAN {
+	left: 0px;
+	top: 16px;
+	position: absolute;
+	overflow: visible;
+	width: 65px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 16px;
+	color: rgba(1,27,64,1);
+}
+#n_100AM_bm {
+	left: 122px;
+	top: 16px;
+	position: absolute;
+	overflow: visible;
+	width: 63px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(1,27,64,1);
+}
+#SEP-HOR-2 {
+	opacity: 0.2;
+	fill: transparent;
+	stroke: rgba(112,112,112,1);
+	
+}
+
+#PAYLESS_INFO {
+	position: absolute;
+	width: 235px;
+	height: 113px;
+	left: 806px;
+	top: 350px;
+	overflow: visible;
+}
+#Image_55 {
+	position: absolute;
+	width: 99.674px;
+	height: 35px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Rapid_Rewards_Partner {
+	left: 110px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 126px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(17,27,64,1);
+}
+#Pick-up-instructions______Rent {
+	left: 7px;
+	top: 39px;
+	position: absolute;
+	overflow: visible;
+	width: 225px;
+	white-space: nowrap;
+	line-height: 15px;
+	margin-top: -1.5px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 12px;
+	color: rgba(17,27,64,1);
+}
+
+#ACCENT_GROUP {
+	position: absolute;
+	width: 208px;
+	height: 187px;
+	left: 1106px;
+	top: 341px;
+	overflow: visible;
+}
+#Image_56 {
+	position: absolute;
+	width: 144px;
+	height: 84px;
+	left: 10px;
+	top: 0px;
+	overflow: visible;
+}
+#Economy_Hyundai_Accent_or_simi {
+	left: 0px;
+	top: 172px;
+	position: absolute;
+	overflow: visible;
+	width: 209px;
+	white-space: nowrap;
+	line-height: 15px;
+	margin-top: -1px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(99,99,99,1);
+}
+#MIDDLE_PAGE-_PRICE {
+	position: absolute;
+	width: 878.485px;
+	height: 204px;
+	left: 513.005px;
+	top: 615px;
+	overflow: visible;
+}
+#RATE_BREAKDOWN {
+	left: 0.995px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 105px;
+	white-space: nowrap;
+	line-height: 15px;
+	margin-top: -2px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 11px;
+	color: rgba(99,99,99,1);
+}
+#BASE_RATE {
+	left: 816.995px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 62px;
+	white-space: nowrap;
+	line-height: 15px;
+	margin-top: -2px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 11px;
+	color: rgba(99,99,99,1);
+}
+#MILEAGE {
+	left: 414.995px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 50px;
+	white-space: nowrap;
+	line-height: 15px;
+	margin-top: -2px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 11px;
+	color: rgba(99,99,99,1);
+}
+
+#n__days_at_1254 {
+	left: 0.995px;
+	top: 38px;
+	position: absolute;
+	overflow: visible;
+	width: 82px;
+	white-space: nowrap;
+	line-height: 15px;
+	margin-top: -2px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 11px;
+	color: rgba(99,99,99,1);
+}
+#Unlimited {
+	left: 410.995px;
+	top: 36px;
+	position: absolute;
+	overflow: visible;
+	width: 74px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 16px;
+	color: rgba(17,27,64,1);
+}
+#n_762 {
+	left: 828.995px;
+	top: 38px;
+	position: absolute;
+	overflow: visible;
+	width: 50px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 16px;
+	color: rgba(17,27,64,1);
+}
+#Taxes__fees {
+	left: 410.995px;
+	top: 85px;
+	position: absolute;
+	overflow: visible;
+	width: 98px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 16px;
+	color: rgba(99,99,99,1);
+}
+#n_872 {
+	left: 828.995px;
+	top: 85px;
+	position: absolute;
+	overflow: visible;
+	width: 50px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 16px;
+	color: rgba(17,27,64,1);
+}
+#Estimated_car_total {
+	left: 413.995px;
+	top: 131px;
+	position: absolute;
+	overflow: visible;
+	width: 180px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(17,27,64,1);
+}
+#n_634 {
+	left: 749.995px;
+	top: 116px;
+	position: absolute;
+	overflow: visible;
+	width: 129px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 42px;
+	color: rgba(17,27,64,1);
+}
+#Includes_approximate_taxes_and {
+	left: 720.995px;
+	top: 177px;
+	position: absolute;
+	overflow: visible;
+	width: 158px;
+	white-space: nowrap;
+	line-height: 15px;
+	margin-top: -2px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 11px;
+	color: rgba(99,99,99,1);
+}
+#RENTAL_CAR_EXTRAS {
+	position: absolute;
+	width: 937px;
+	height: 351.96px;
+	left: 483.5px;
+	top: 835px;
+	overflow: visible;
+}
+#Rectangle_18 {
+	fill: rgba(245,245,245,1);
+}
+.Rectangle_18 {
+	position: absolute;
+	overflow: visible;
+	width: 937px;
+	height: 351.96px;
+	left: 0px;
+	top: 0px;
+}
+#Rental_car_extras {
+	left: 30.5px;
+	top: 30px;
+	position: absolute;
+	overflow: visible;
+	width: 178px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 22px;
+	color: rgba(17,27,64,1);
+}
+#Youll_be_able_to_pay_for_and_r {
+	left: 29px;
+	top: 62px;
+	position: absolute;
+	overflow: visible;
+	width: 868px;
+	white-space: nowrap;
+	line-height: 15px;
+	margin-top: -1px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(99,99,99,1);
+}
+#Rectangle_19 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,0.2);
+	
+}
+.Rectangle_19 {
+	position: absolute;
+	overflow: visible;
+	width: 876px;
+	height: 191px;
+	left: 30.5px;
+	top: 99px;
+}
+#Navigation_System {
+	left: 672.5px;
+	top: 162px;
+	position: absolute;
+	overflow: visible;
+	width: 109px;
+	white-space: nowrap;
+	line-height: 15px;
+	margin-top: -1px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(99,99,99,1);
+}
+#Additional_charges_may_apply {
+	left: 63.5px;
+	top: 124px;
+	position: absolute;
+	overflow: visible;
+	width: 171px;
+	white-space: nowrap;
+	line-height: 15px;
+	margin-top: -1px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(99,99,99,1);
+}
+#Child_safety_seat_toddler {
+	left: 346.5px;
+	top: 162px;
+	position: absolute;
+	overflow: visible;
+	width: 141px;
+	white-space: nowrap;
+	line-height: 15px;
+	margin-top: -1px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(99,99,99,1);
+}
+#Child_Safety_seat_infant {
+	left: 82.5px;
+	top: 197px;
+	position: absolute;
+	overflow: visible;
+	width: 135px;
+	white-space: nowrap;
+	line-height: 15px;
+	margin-top: -1px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(99,99,99,1);
+}
+#Mobile_phone {
+	left: 82.5px;
+	top: 162px;
+	position: absolute;
+	overflow: visible;
+	width: 79px;
+	white-space: nowrap;
+	line-height: 15px;
+	margin-top: -1px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(99,99,99,1);
+}
+
+
+#CAR_POLICIES {
+	position: absolute;
+	width: 522px;
+	height: 130px;
+	left: 515px;
+	top: 1215px;
+	overflow: visible;
+}
+#Car_policies______The_minimum_ {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 523px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 16px;
+	color: rgba(1,27,64,1);
+}
+
+#Image_67 {
+	position: absolute;
+	width: 218px;
+	height: 37px;
+	left: 0px;
+	top: 93px;
+	overflow: visible;
+}
+#BLUE_BOX_BOTTOM {
+	position: absolute;
+	width: 938px;
+	height: 210px;
+	left: 483px;
+	top: 1356px;
+	overflow: visible;
+}
+#BLUE {
+	fill: rgba(48,76,178,1);
+}
+.BLUE {
+	position: absolute;
+	overflow: visible;
+	width: 938px;
+	height: 210px;
+	left: 0px;
+	top: 0px;
+}
+#SUBTOTAL {
+	left: 554px;
+	top: 49px;
+	position: absolute;
+	overflow: visible;
+	width: 58px;
+	white-space: nowrap;
+	line-height: 15px;
+	margin-top: -2px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 11px;
+	color: rgba(255,255,255,1);
+}
+#TAXES__FEES {
+	left: 554px;
+	top: 77px;
+	position: absolute;
+	overflow: visible;
+	width: 78px;
+	white-space: nowrap;
+	line-height: 15px;
+	margin-top: -2px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 11px;
+	color: rgba(255,255,255,1);
+}
+#TRIP_TOTAL {
+	left: 554px;
+	top: 101px;
+	position: absolute;
+	overflow: visible;
+	width: 93px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 16px;
+	color: rgba(255,255,255,1);
+}
+#n_762_c {
+	left: 843px;
+	top: 41px;
+	position: absolute;
+	overflow: visible;
+	width: 63px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 22px;
+	color: rgba(255,255,255,1);
+	vertical-align: super;
+}
+#n_872_c {
+	left: 843px;
+	top: 66px;
+	position: absolute;
+	overflow: visible;
+	width: 63px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 22px;
+	color: rgba(255,255,255,1);
+	vertical-align: super;
+	text-transform: capitalize;
+}
+#n_634_c {
+	left: 823px;
+	top: 91px;
+	position: absolute;
+	overflow: visible;
+	width: 86px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(255,255,255,1);
+	vertical-align: super;
+}
+#Show_price_breakdown {
+	left: 797px;
+	top: 136px;
+	position: absolute;
+	overflow: visible;
+	width: 112px;
+	white-space: nowrap;
+	line-height: 15px;
+	margin-top: -2px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 11px;
+	color: rgba(255,255,255,1);
+	text-decoration: underline;
+}
+#CONTINUE_GROUP {
+	position: absolute;
+	width: 356px;
+	height: 112px;
+	left: 1037px;
+	top: 1597px;
+	overflow: visible;
+}
+#Rectangle_25 {
+	fill: rgba(255,191,39,1);
+}
+.Rectangle_25 {
+	position: absolute;
+	overflow: visible;
+	width: 110px;
+	height: 48px;
+	left: 246px;
+	top: 64px;
+}
+#Continue {
+	left: 267px;
+	top: 80px;
+	position: absolute;
+	overflow: visible;
+	width: 70px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 16px;
+	color: rgba(48,76,178,1);
+}
+#Rectangle_24 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(48,76,178,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_24 {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 243.75px;
+	height: 66px;
+	left: 0px;
+	top: 64px;
+}
+#Log_in_for_faster_checkout {
+	left: 15px;
+	top: 80px;
+	position: absolute;
+	overflow: visible;
+	width: 197px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 16px;
+	color: rgba(48,76,178,1);
+}
+#TOTAL_DUE_NOW {
+	left: 0px;
+	top: 15px;
+	position: absolute;
+	overflow: visible;
+	width: 134px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 16px;
+	color: rgba(1,27,64,1);
+}
+#n_00 {
+	left: 261px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 96px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 42px;
+	color: rgba(1,27,64,1);
+	vertical-align: super;
+}
+#FOOTER {
+	position: absolute;
+	width: 1903px;
+	height: 127px;
+	left: 0px;
+	top: 1832px;
+	overflow: visible;
+}
+#FOOTER_dd {
+	fill: rgba(249,247,247,1);
+}
+.FOOTER_dd {
+	position: absolute;
+	overflow: visible;
+	width: 1903px;
+	height: 127px;
+	left: 0px;
+	top: 0px;
+}
+#Group_21 {
+	position: absolute;
+	width: 1087px;
+	height: 127px;
+	left: 482px;
+	top: 0px;
+	overflow: visible;
+}
+#Rectangle_8 {
+	fill: rgba(249,247,247,1);
+}
+.Rectangle_8 {
+	position: absolute;
+	overflow: visible;
+	width: 1087px;
+	height: 127px;
+	left: 0px;
+	top: 0px;
+}
+#Group_9 {
+	position: absolute;
+	width: 657px;
+	height: 69px;
+	left: 16px;
+	top: 23px;
+	overflow: visible;
+}
+#Indicates_external_site_which_ {
+	left: 14px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 424px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(99,99,99,1);
+}
+#Image_23 {
+	position: absolute;
+	width: 14px;
+	height: 14.966px;
+	left: 0px;
+	top: 1px;
+	overflow: visible;
+}
+#n_2021_Southwest_Airlines_Co_A {
+	left: 0px;
+	top: 39px;
+	position: absolute;
+	overflow: visible;
+	width: 658px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(99,99,99,1);
+}
+#Image_68 {
+	position: absolute;
+	width: 121px;
+	height: 49px;
+	left: 1300px;
+	top: 46px;
+	overflow: visible;
+}
